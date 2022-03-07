@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ## Skills
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Typescrypt](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white)
+![Typescrypt](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=white)
