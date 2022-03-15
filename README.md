@@ -42,7 +42,7 @@ Coming Soon!
 ## Connect with Me
 
 <a href='https://discord.gg/3M8kNAYPTb'>
-  <img src="images/discord.svg" alt='Discord'>
+  <img src="images/Discord.svg" alt='Discord'>
 </a>
 
 ## Quicklinks
