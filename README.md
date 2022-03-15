@@ -13,10 +13,10 @@
 ## Specialities
 
 - EVM/Blockchain Transactions
-  -Web3
-  -Web Development
-  -Miner Extracted Value
-  -DEFI
+- Web3
+- Web Development
+- Miner Extracted Value
+- DEFI
 
 ## Skills
 
