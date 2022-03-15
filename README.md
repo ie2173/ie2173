@@ -43,12 +43,12 @@ Coming Soon!
 
 <span display='flex' flex-wrap= 'wrap'>
 <a href='https://discord.gg/3M8kNAYPTb'>
-  <img src="images/Discord.svg" alt='Discord' margin='20px'>
+  <img src="images/Discord.svg" alt='Discord' margin='0 10px 0 0;'>
 </a>
 <a href='https://twitter.com/lunacrypto4'>
-  <img src="images/Twitter.svg" alt='Twitter' width='60px' height='60px' margin='20px'>
+  <img src="images/Twitter.svg" alt='Twitter' width='60px' height='60px' margin='0 10px 0 0;'>
 </a><a href='https://www.linkedin.com/in/ilelliott/'>
-  <img src="images/Linkedin.png" alt='Linkedin' width='59px' height='59px' margin='20px'>
+  <img src="images/Linkedin.png" alt='Linkedin' width='59px' height='59px' margin='0 10px 0 0;'>
 </a>
 </span>
 
