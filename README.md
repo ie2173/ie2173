@@ -45,9 +45,9 @@ Coming Soon!
   <img src="images/Discord.svg" alt='Discord'>
 </a>
 <a href='https://twitter.com/lunacrypto4'>
-  <img src="images/Twitter.svg" alt='Twitter' width='40px' height='40px'>
+  <img src="images/Twitter.svg" alt='Twitter' width='70px' height='70px'>
 </a><a href='https://www.linkedin.com/in/ilelliott/'>
-  <img src="images/Linkedin.png" alt='Linkedin'>
+  <img src="images/Linkedin.png" alt='Linkedin' width='70px' height='70px'>
 </a>
 
 ## Quicklinks
