@@ -41,7 +41,7 @@ Coming Soon!
 
 ## Connect with Me
 
-<span display='flex' align-items='center'>
+<span display='flex' gap='20px'>
 <a href='https://discord.gg/3M8kNAYPTb'>
   <img src="images/Discord.svg" alt='Discord'>
 </a>
