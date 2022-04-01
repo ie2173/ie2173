@@ -1,4 +1,4 @@
-# Welcome! I'm Ian Elliott and I am a Web3/EVM Developer 👋
+# Welcome! I'm Ian Elliott and I'm a Web3/EVM Developer 👋
 
 ## about me
 
