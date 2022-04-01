@@ -1,4 +1,4 @@
-# Welcome! My name is Ian Elliott and I am a Web3/EVM Developer 👋
+# Welcome! I'm Ian Elliott and I am a Web3/EVM Developer 👋
 
 ## about me
 
@@ -55,5 +55,5 @@ Coming Soon!
 ## Quicklinks
 
 [Historic Eth Gas Prices](http://www.github.com/ie2173/historicgasprices)
-[Historic Crypto Prices]()
-[Solidity Style Guide]()
+[Historic Crypto Prices](https://github.com/ie2173/coinprices)
+[Solidity Style Guide](https://github.com/0xcert/solidity-style-guide)
