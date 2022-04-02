@@ -56,4 +56,4 @@ Coming Soon!
 
 [Historic Eth Gas Prices](http://www.github.com/ie2173/historicgasprices)
 [Historic Crypto Prices](https://github.com/ie2173/coinprices)
-[Solidity Style Guide](https://github.com/0xcert/solidity-style-guide)
+[Solidity Style Guide](https://github.com/ethereum/solidity/blob/v0.5.1/docs/style-guide.rst)
