@@ -3,7 +3,7 @@
 ## about me
 
 - 👯 Current Dao(s): None
-- 🔭 I’m currently working on: Portfolio Website, Active and Passive Fund Contracts, MEV bots
+- 🔭 I’m currently working on: Portfolio Website, Ethereum Vending Machine Dapp Example, Active and Passive Fund Contracts, MEV bots
 - 🌱 I’m currently learning: Rust, Go, GETH, ZK and 2nd Layer solutions.
 - 🤔 I’m looking for help with: Networking with the Ethereum Commumity.
 - 💬 Ask me about: Ethereum
