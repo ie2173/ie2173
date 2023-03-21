@@ -3,9 +3,9 @@
 ## about me
 
 - 👯 Current Dao(s): None
-- 🔭 I’m currently working on: Portfolio Website, Ethereum Vending Machine Dapp Example, Active and Passive Fund Contracts, MEV bots
-- 🌱 I’m currently learning: GETH, ZK and 2nd Layer solutions.
-- 🤔 I’m looking for help with: Networking with the Ethereum Commumity.
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: 
+- 🤔 I’m looking for help with: 
 - 💬 Ask me about: Ethereum
 - 📫 How to reach me: ie2173@columbia.edu
 - 😄 Pronouns: He/Him
