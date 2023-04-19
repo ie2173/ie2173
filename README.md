@@ -3,10 +3,8 @@
 ## about me
 
 - 👯 Current Dao(s): None
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on: Novus Network App, Oak Community, Cheers Finance, Crow Web 3 Agency
 - 🌱 I’m currently learning: 
-- 🤔 I’m looking for help with: 
-- 💬 Ask me about: Ethereum
 - 📫 How to reach me: ie2173@columbia.edu
 - 😄 Pronouns: He/Him
 
@@ -14,7 +12,7 @@
 
 - EVM/Blockchain Transactions
 - Web3
-- Web Development
+- Web Development : HTML. CSS, JS/TS, React.js, React Native
 - DEFI
 
 ## Skills
@@ -34,9 +32,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-0b101e?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4)
 ![Storybook](https://img.shields.io/badge/Storybook_UI-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 
-## 📝 Blog/Research
 
-Coming Soon!
 
 ## Connect with Me
 
@@ -46,7 +42,7 @@ Coming Soon!
 </a>
 <a href='https://twitter.com/lunacrypto4'>
   <img src="images/Twitter.svg" alt='Twitter' width='60px' height='60px' margin='0 10px 0 0;'>
-</a><a href='https://www.linkedin.com/in/ilelliott/'>
+</a><a href='https://www.linkedin.com/in/ianweb3/'>
   <img src="images/Linkedin.png" alt='Linkedin' width='59px' height='59px' margin='0 10px 0 0;'>
 </a>
 </span>
