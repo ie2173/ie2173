@@ -3,7 +3,7 @@
 ## about me
 
 - 👯 Current Dao(s): None
-- 🔭 I’m currently working on: Novus Network App, Oak Community, Cheers Finance, Crow Web 3 Agency
+- 🔭 I’m currently working on: Novus Network App, Oak Community, Crow Web 3 Agency
 - 🌱 I’m currently learning: 
 - 📫 How to reach me: ie2173@columbia.edu
 - 😄 Pronouns: He/Him
